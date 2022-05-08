@@ -1,0 +1,49 @@
+Pensamento Computacional
+É uma habilidade de formular problemas e encontrar uma solução para eles
+Pilares:
+	Decomposição: separar o problema em subproblemas
+	Reconhecimento de padrões: identificar padrões ou tendencias dentro de um problema
+	Abstração: extrapolar o conceito de um problema para uma forma generalista
+	Design de algorítimos (automatizar): definir passo a passo a solução de um problema
+
+Raciocínio lógico:
+	é a forma do pensamento estruturado que permite encontrar a conclusão ou determinar a resolução de um problema
+
+Decomposição:
+	é o primeiro passo na resolução de um problema complexo para resolver um problema complexo, 
+	primeiro devemos dividi-lo em problemas menores. 
+	Esses problemas menores são mais fáceis de serem resolvidos.
+
+Estratégia:
+	Análise: estudar o problema para poder decompô-lo em	partes menores
+	Síntese: Combinar os elementos recompondo o problema	original
+	Reconhecimento de padrões
+
+
+É uma maneira de generalização problemas para obter a	resolução de problemas diferentes que tenham alguma similaridade
+Abstração
+
+
+Abstrair é o processo de observar elementos, avaliando	características e propriedades em separado
+Abstração é o processo de isolamento de um objeto da realidade
+Como classificar os dados?
+Características
+Pontos essenciais
+Generalizar X Detalhar
+
+
+GIT
+Iniciar o GIT
+	comando: git init
+	cria um repositório para iniciar o versionamento
+	o comando cria oma pasta .git
+
+Iniciar versionamento
+	comando: git add
+
+Criar um commit
+	comando: git commit
+
+Verificar o estado dos qrquivosd
+	comando: git status
+
